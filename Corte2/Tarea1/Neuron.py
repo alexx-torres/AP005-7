@@ -1,5 +1,5 @@
-inputs = [1, 2, 3, 4]
-targets = [2, 4, 6, 8]
+inputs = [1, 2, 3, 4] # lista con datos de entrada
+targets = [2, 4, 6, 8] # lista con datos de salida
 
 import time
 
